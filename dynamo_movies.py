@@ -1,6 +1,7 @@
 # CS178 - Lab 8 Starter
 # Lab 8 - Nick Ortman
-# Version 2
+# Version 3
+# Challenge 1
 
 REGION = "us-east-1"
 TABLE_NAME = "Movies"
